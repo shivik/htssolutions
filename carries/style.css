@@ -452,7 +452,7 @@ input:-webkit-autofill:focus {
 }
 
 .select-language select {
-    background: #fff;
+    background: #ffffff14;
     border: 0 none;
     color: #333;
     -webkit-appearance: none;
@@ -2220,4 +2220,8 @@ blockquote::before {
 
 .error-area .read-more {
     width: auto;
+}
+
+.sizer{
+	height: 53px;
 }
